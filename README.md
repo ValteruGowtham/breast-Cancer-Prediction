@@ -37,3 +37,15 @@ This project uses **Logistic Regression** to classify whether a tumor is **benig
    ```bash
    git clone https://github.com/your-username/breast-cancer-prediction.git
    cd breast-cancer-prediction
+
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the model:
+   ```bash
+   python code.py
+
+## Model Export:
+   ```bash
+   logistic_model.pkl
